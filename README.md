@@ -1,10 +1,10 @@
 # SQL & Python Daily Practice
 
-A running log of small SQL and Python exercises — queries solved, scripts written, and concepts re-explained in my own words. This isn't a polished portfolio repo; it's where I rebuild and maintain fluency through consistent, low-pressure practice.
+A running log of small SQL and Python exercises - queries solved, scripts written, and concepts re-explained in my own words. This isn't a polished portfolio repo; it's where I rebuild and maintain fluency through consistent, low-pressure practice.
 
 ## Why this exists
 
-Portfolio projects show what I've built. This repo shows how I think, day to day — the actual problem-solving process, not just a finished result.
+Portfolio projects show what I've built. This repo shows how I think, day to day - the actual problem-solving process, not just a finished result.
 
 ## Structure
 
@@ -24,7 +24,7 @@ sql-python-daily/
 |---|---|---|---|
 | 2026-09-03 | Window functions (RANK, LAG) | SQL | Practiced on Olist dataset |
 
-*(Updated as I go. Not every entry will be polished — that's the point.)*
+*(Updated as I go. Not every entry will be polished - that's the point.)*
 
 ## Focus areas
 
