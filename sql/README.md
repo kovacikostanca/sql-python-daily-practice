@@ -122,10 +122,10 @@ The objective is to understand not only how to write SQL queries, but also why a
 |   |Data Sorting | ✅ Completed |
 |   | NULL Handling | ✅ Completed |
 | Lesson 02 - SQL| Aggregate Functions | 🔜 Next |
-| Lesson 02 - SQL| GROUP BY & HAVING | ⏳ Upcoming |
-| Lesson | SQL JOINS | ⏳ Upcoming |
-| Lesson | Subqueries | ⏳ Upcoming |
-| Lesson | Window Functions | ⏳ Upcoming |
+|   | GROUP BY & HAVING | ⏳ Upcoming |
+| Lesson 03 - SQL | SQL JOINS | ⏳ Upcoming |
+| Lesson 04 -SQL | Subqueries | ⏳ Upcoming |
+| Lesson 05 - SQL | Window Functions | ⏳ Upcoming |
 
 ---
 
