@@ -9,20 +9,20 @@ Portfolio projects show what I've built. This repo shows how I think, day to day
 ## Structure
 
 ```
-sql-python-daily/
+sql-python-daily-practice/
 ├── sql/
-│   └── (dated .sql files, e.g. 2026-09-03-window-functions.sql)
+│   └── (files, e.g. 'Lesson-01-SQL-Fundamentals)
 ├── python/
-│   └── (dated .py files, e.g. 2026-09-04-pandas-groupby.py)
+│   └── (files)
 └── notes/
     └── concepts-explained.md   — short write-ups of concepts in my own words
 ```
 
 ## Log
 
-| Date | Topic | Type | Notes |
-|---|---|---|---|
-| 2026-09-03 | Window functions (RANK, LAG) | SQL | Practiced on Olist dataset |
+| Topic | Type | Notes |
+|---|---|---|
+| SELECT, WHERE, ORDER BY, NULLs | SQL | SQL Fundamentals |
 
 *(Updated as I go. Not every entry will be polished - that's the point.)*
 
