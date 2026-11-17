@@ -1,4 +1,4 @@
-# SQL Learning Journey 📊
+# SQL Learning Journey 
 
 Welcome to **SQL Learning Journey**!
 
@@ -10,7 +10,7 @@ This repository is also designed to help other beginners learn SQL through struc
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 Throughout this journey, I aim to:
 
@@ -24,7 +24,7 @@ Throughout this journey, I aim to:
 
 ---
 
-## 📚 Learning Roadmap
+##  Learning Roadmap
 
 The learning journey is divided into structured lessons, progressing from beginner to advanced SQL concepts.
 
@@ -45,7 +45,7 @@ The learning journey is divided into structured lessons, progressing from beginn
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 sql/
@@ -95,7 +95,7 @@ The main technology used throughout this learning journey is:
 
 ---
 
-## 🧩 Practical Learning Approach
+##  Practical Learning Approach
 
 I believe that learning SQL requires more than memorizing commands.
 
@@ -113,7 +113,7 @@ The objective is to understand not only how to write SQL queries, but also why a
 
 ---
 
-## 📈 Progress Tracker
+##  Progress Tracker
 
 | Skill | Progress |
 |---|---|
@@ -129,7 +129,7 @@ The objective is to understand not only how to write SQL queries, but also why a
 
 ---
 
-## 💡 Who Is This Repository For?
+##  Who Is This Repository For?
 
 This repository is intended for:
 
@@ -143,7 +143,7 @@ You are welcome to follow along, practice the queries, and use the lessons as a 
 
 ---
 
-## 🚀 The Goal
+##  The Goal
 
 The ultimate goal is to become proficient in SQL and use it confidently to:
 
