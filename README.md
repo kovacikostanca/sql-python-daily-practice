@@ -22,7 +22,7 @@ sql-python-daily-practice/
 
 | Topic | Type | Notes | Link |
 |---|---|---|---|
-| SELECT, WHERE, ORDER BY, NULLs | SQL | SQL Fundamentals | [![View Lesson](https://github.com/kovacikostanca/sql-python-daily-practice/tree/main/sql/Lesson-01-Fundamentals) |
+| SELECT, WHERE, ORDER BY, NULLs | SQL | SQL Fundamentals | [View Lesson](https://github.com/kovacikostanca/sql-python-daily-practice/tree/main/sql/Lesson-01-Fundamentals) |
 
 *(Updated as I go. Not every entry will be polished - that's the point.)*
 
