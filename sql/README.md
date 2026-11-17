@@ -115,17 +115,17 @@ The objective is to understand not only how to write SQL queries, but also why a
 
 ##  Progress Tracker
 
-| Skill | Progress |
-|---|---|
-| Data Retrieval | ✅ Completed |
-| Data Filtering | ✅ Completed |
-| Data Sorting | ✅ Completed |
-| NULL Handling | ✅ Completed |
-| Aggregate Functions | 🔜 Next |
-| GROUP BY & HAVING | ⏳ Upcoming |
-| SQL JOINS | ⏳ Upcoming |
-| Subqueries | ⏳ Upcoming |
-| Window Functions | ⏳ Upcoming |
+|Lesson | Skill | Progress |
+|---|---|---|
+|Lesson 01 - SQL Fundamentals | Data Retrieval | ✅ Completed |
+|   | Data Filtering | ✅ Completed |
+|   |Data Sorting | ✅ Completed |
+|   | NULL Handling | ✅ Completed |
+| Lesson 02 - SQL| Aggregate Functions | 🔜 Next |
+| Lesson 02 - SQL| GROUP BY & HAVING | ⏳ Upcoming |
+| Lesson | SQL JOINS | ⏳ Upcoming |
+| Lesson | Subqueries | ⏳ Upcoming |
+| Lesson | Window Functions | ⏳ Upcoming |
 
 ---
 
