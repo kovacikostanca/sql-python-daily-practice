@@ -1,6 +1,6 @@
 # SQL & Python Daily Practice
 
-A running log of small SQL and Python exercises - queries solved, scripts written, and concepts re-explained in my own words. This isn't a polished portfolio repo; it's where I rebuild and maintain fluency through consistent, low-pressure practice.
+A running log of small SQL and Python lessons and exercises - queries solved, scripts written, and concepts re-explained in my own words. This isn't a polished portfolio repo; it's where I rebuild and maintain fluency through consistent, low-pressure practice.
 
 ## Why this exists
 
