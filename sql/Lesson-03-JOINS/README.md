@@ -761,9 +761,11 @@ This is a typical Data Analyst query for identifying inactive customers.
 
 Use the `employees` and `departments` tables from this lesson.
 
-For the SELF JOIN exercises, use the employee-manager dataset from Section 7.
 
-For Exercise 6, use the `customers` and `orders` example tables from Section 10.
+- For the SELF JOIN exercises, use the employee-manager dataset from Section 7.
+
+- For Exercise 6, use the `customers` and `orders` example tables from Section 10.
+
 
 Try to solve each exercise independently before checking your notes.
 
