@@ -812,6 +812,19 @@ The same logic can be applied to sales, customers, products, transactions, emplo
 
 Use the same `employees` table.
 
+### Employees Table
+
+| employee_id | first_name | department | salary | city | manager_id |
+|---:|---|---|---:|---|---:|
+| 1 | John | IT | 55000 | Athens | 10 |
+| 2 | Maria | HR | 42000 | Thessaloniki | 11 |
+| 3 | George | IT | 65000 | Athens | 10 |
+| 4 | Anna | Finance | 60000 | Patras | NULL |
+| 5 | Peter | Marketing | 38000 | Athens | 12 |
+| 6 | Elena | HR | 45000 | NULL | 11 |
+| 7 | David | Finance | 72000 | Athens | NULL |
+| 8 | Sofia | IT | 50000 | Heraklion | 10 |
+
 Write SQL queries for the following exercises.
 
 Try to solve each exercise independently before checking your notes.
