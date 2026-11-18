@@ -938,7 +938,7 @@ The answers will help you choose the correct JOIN type.
 
 ## 14. Next Lesson
 
-### Lesson 4 – Subqueries
+### Lesson 4 – Subqueries and CTEs
 
 In the next lesson, we will learn how to use queries inside other queries.
 
