@@ -1056,14 +1056,11 @@ Topics will include:
 | Lesson | Topic | Status |
 |---|---|---|
 | Lesson 01 | SELECT, WHERE, ORDER BY & NULL Values | Completed |
-| Lesson 02 | Aggregations, GROUP BY & HAVING | In Progress |
+| Lesson 02 | Aggregations, GROUP BY & HAVING | Completed |
 | Lesson 03 | SQL JOINs | Upcoming |
-| Lesson 04 | Subqueries | Upcoming |
-| Lesson 05 | CASE WHEN | Upcoming |
+| Lesson 04 | Subqueries and CTES | Upcoming |
+| Lesson 05 | CASE, date and string functions | Upcoming |
 | Lesson 06 | String and Date Functions | Upcoming |
-| Lesson 07 | Common Table Expressions (CTEs) | Upcoming |
-| Lesson 08 | Window Functions | Upcoming |
-| Lesson 09 | Practical SQL Projects | Upcoming |
 
 ---
 
