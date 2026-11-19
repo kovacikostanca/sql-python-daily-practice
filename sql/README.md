@@ -28,13 +28,13 @@ Throughout this journey, I aim to:
 
 The learning journey is divided into structured lessons, progressing from beginner to advanced SQL concepts.
 
-| Lesson | Topics | Status |
-|---|---|---|
-| Lesson 01 | SELECT, WHERE, ORDER BY & NULL Values | ✅ Completed |
-| Lesson 02 | Aggregations, GROUP BY & HAVING | ✅ Completed |
-| Lesson 03 | SQL JOINS | ✅ Completed |
-| Lesson 04 | Subqueries & CTEs | ✅ Completed |
-| Lesson 05 | CASE WHEN, Date & String Functions | ⏳ Upcoming |
+| Lesson | Topics | Status | Link |
+|---|---|---|---|
+| Lesson 01 | SELECT, WHERE, ORDER BY & NULL Values | ✅ Completed | [View Link](sql-python-daily-practice/sql/Lesson-01-Fundamentals) |
+| Lesson 02 | Aggregations, GROUP BY & HAVING | ✅ Completed | [View Link](sql-python-daily-practice/sql/Lesson-02-Aggregations) |
+| Lesson 03 | SQL JOINS | ✅ Completed | [View Link](sql-python-daily-practice/sql/Lesson-03-JOINS) |
+| Lesson 04 | Subqueries & CTEs | ✅ Completed | [View Link](sql-python-daily-practice/sql/Lesson-04-Subqueries-CTEs) |
+| Lesson 05 | CASE WHEN, Date & String Functions | ⏳ Upcoming | |
 
 *The roadmap may evolve as explore additional SQL concepts and practical applications.*
 
