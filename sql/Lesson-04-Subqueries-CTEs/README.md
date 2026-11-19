@@ -46,7 +46,7 @@ By the end of this lesson, you should be able to:
 - Decide when to use a subquery or a CTE.
 - Write more readable and organized SQL queries.
 
-## Dataset – Tables Used in This Lesson
+### Dataset – Tables Used in This Lesson
 
 For this lesson, we will continue working with the `employees` and `departments` tables introduced in Lesson 03.
 
