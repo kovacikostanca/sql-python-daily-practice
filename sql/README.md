@@ -30,11 +30,11 @@ The learning journey is divided into structured lessons, progressing from beginn
 
 | Lesson | Topics | Status | Link |
 |---|---|---|---|
-| Lesson 01 | SELECT, WHERE, ORDER BY & NULL Values | ✅ Completed | [View Link](kovacikostanca/sql-python-daily-practice/sql/Lesson-01-Fundamentals) |
-| Lesson 02 | Aggregations, GROUP BY & HAVING | ✅ Completed | [View Link](kovacikostanca/sql-python-daily-practice/sql/Lesson-02-Aggregations) |
-| Lesson 03 | SQL JOINS | ✅ Completed | [View Link](kovacikostanca/sql-python-daily-practice/sql/Lesson-03-JOINS) |
-| Lesson 04 | Subqueries & CTEs | ✅ Completed | [View Link](kovacikostanca/sql-python-daily-practice/sql/Lesson-04-Subqueries-CTEs) |
-| Lesson 05 | CASE WHEN, Date & String Functions | ⏳ Upcoming | |
+| Lesson 01 | SELECT, WHERE, ORDER BY & NULL Values | ✅ Completed | [View Lesson](https://github.com/kovacikostanca/sql-python-daily-practice/tree/main/sql/Lesson-01-Fundamentals) |
+| Lesson 02 | Aggregations, GROUP BY & HAVING | ✅ Completed | [View Lesson](https://github.com/kovacikostanca/sql-python-daily-practice/tree/main/sql/Lesson-02-Aggregations) |
+| Lesson 03 | SQL JOINS | ✅ Completed | [View Lesson](https://github.com/kovacikostanca/sql-python-daily-practice/tree/main/sql/Lesson-03-JOINS) |
+| Lesson 04 | Subqueries & CTEs | ✅ Completed | [View Lesson](https://github.com/kovacikostanca/sql-python-daily-practice/tree/main/sql/Lesson-04-Subqueries-CTEs) |
+| Lesson 05 | CASE WHEN, Date & String Functions | ⏳ Upcoming | — |
 
 *The roadmap may evolve as explore additional SQL concepts and practical applications.*
 
