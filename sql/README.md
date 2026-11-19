@@ -118,7 +118,7 @@ The objective is to understand not only how to write SQL queries, but also why a
 |   | NULL Handling | ✅ Completed |
 | Lesson 02 - SQL| Aggregate Functions | ✅ Completed |
 |   | GROUP BY & HAVING | ✅ Completed |
-| Lesson 03 - SQL | SQL JOINS | ✅ Completedg |
+| Lesson 03 - SQL | SQL JOINS | ✅ Completed |
 | Lesson 04 -SQL | Subqueries & CTEs | ✅ Completed|
 
 ---
