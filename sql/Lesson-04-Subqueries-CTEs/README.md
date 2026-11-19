@@ -784,19 +784,19 @@ In this lesson, we learned:
 
 ### Progress Tracker
 
-| Lesson | | |
+| Lesson | Topic | Status |
 |---|---|---|
-| Lesson 1 – SQL Fundamentals | SELECT, WHERE, ORDER BY & NULL Values | |
-| Lesson 2 – Aggregations | GROUP BY & HAVING | |
-|  Lesson 3 – JOINs: INNER, LEFT, SELF & ANTI JOIN | |
-|  Lesson 4 – Subqueries & CTEs | |
-|  Lesson 5 – CASE WHEN, Date & Strings | |
+| Lesson 01 | SELECT, WHERE, ORDER BY & NULL Values | Completed |
+| Lesson 02 | Aggregations, GROUP BY & HAVING | Completed |
+| Lesson 03 | JOINs | Completed |
+| Lesson 04 | Subqueries and CTEs | Completed |
+| Lesson 05 | CASE, String and Date Functions | Upcoming |
 
 ---
 
 ## 13. Next Lesson
 
-### Lesson 5 – CASE WHEN & Conditional Logic
+### Lesson 5 – CASE WHEN, Date & String Functions
 
 In the next lesson, we will learn how to create conditional logic inside SQL queries.
 
@@ -807,6 +807,7 @@ Topics will include:
 - `ELSE`
 - Creating categories from numerical values
 - Conditional aggregations
+- Date & String Functions
 - Practical Data Analyst examples
 
 **Keep practicing. The goal is not just to understand SQL syntax, but to learn how to solve real business problems with SQL.**
