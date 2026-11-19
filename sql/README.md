@@ -116,11 +116,10 @@ The objective is to understand not only how to write SQL queries, but also why a
 |   | Data Filtering | ✅ Completed |
 |   |Data Sorting | ✅ Completed |
 |   | NULL Handling | ✅ Completed |
-| Lesson 02 - SQL| Aggregate Functions | 🔜 Next |
-|   | GROUP BY & HAVING | ⏳ Upcoming |
-| Lesson 03 - SQL | SQL JOINS | ⏳ Upcoming |
-| Lesson 04 -SQL | Subqueries | ⏳ Upcoming |
-| Lesson 05 - SQL | Window Functions | ⏳ Upcoming |
+| Lesson 02 - SQL| Aggregate Functions | ✅ Completed |
+|   | GROUP BY & HAVING | ✅ Completed |
+| Lesson 03 - SQL | SQL JOINS | ✅ Completedg |
+| Lesson 04 -SQL | Subqueries & CTEs | ✅ Completed|
 
 ---
 
