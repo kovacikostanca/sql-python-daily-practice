@@ -963,7 +963,7 @@ Topics will include:
 |---|---|---|
 | Lesson 01 | SELECT, WHERE, ORDER BY & NULL Values | Completed |
 | Lesson 02 | Aggregations, GROUP BY & HAVING | Completed |
-| Lesson 03 | JOINs | In Progress |
+| Lesson 03 | JOINs | Completed |
 | Lesson 04 | Subqueries and CTEs | Upcoming |
 | Lesson 05 | CASE, String and Date Functions | Upcoming |
 
