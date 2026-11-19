@@ -31,15 +31,10 @@ The learning journey is divided into structured lessons, progressing from beginn
 | Lesson | Topics | Status |
 |---|---|---|
 | Lesson 01 | SELECT, WHERE, ORDER BY & NULL Values | ✅ Completed |
-| Lesson 02 | Aggregations, GROUP BY & HAVING | 🔜 Next |
-| Lesson 03 | SQL JOINS | ⏳ Upcoming |
-| Lesson 04 | Subqueries | ⏳ Upcoming |
-| Lesson 05 | CASE WHEN & Conditional Logic | ⏳ Upcoming |
-| Lesson 06 | String Functions | ⏳ Upcoming |
-| Lesson 07 | Date and Time Functions | ⏳ Upcoming |
-| Lesson 08 | CTEs (Common Table Expressions) | ⏳ Upcoming |
-| Lesson 09 | Window Functions | ⏳ Upcoming |
-| Lesson 10 | Advanced SQL & Data Analysis Projects | ⏳ Upcoming |
+| Lesson 02 | Aggregations, GROUP BY & HAVING | ✅ Completed |
+| Lesson 03 | SQL JOINS | ✅ Completed |
+| Lesson 04 | Subqueries & CTEs | ✅ Completed |
+| Lesson 05 | CASE WHEN, Date & String Functions | ⏳ Upcoming |
 
 *The roadmap may evolve as explore additional SQL concepts and practical applications.*
 
@@ -64,7 +59,7 @@ sql/
 │   ├── README.md
 │   └── lesson_03_exercises.sql
 │
-├── Lesson-04-Subqueries/
+├── Lesson-04-Subqueries-CTEs/
 │   ├── README.md
 │   └── lesson_04_exercises.sql
 │
