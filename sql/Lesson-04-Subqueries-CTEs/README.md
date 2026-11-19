@@ -46,6 +46,70 @@ By the end of this lesson, you should be able to:
 - Decide when to use a subquery or a CTE.
 - Write more readable and organized SQL queries.
 
+## Dataset – Tables Used in This Lesson
+
+For this lesson, we will continue working with the `employees` and `departments` tables introduced in Lesson 03.
+
+These tables will help us practice:
+- Scalar subqueries
+- Multi-row subqueries
+- `IN`, `EXISTS` and `NOT EXISTS`
+- Correlated subqueries
+- Common Table Expressions (CTEs)
+
+### 1. Employees Table
+
+The `employees` table contains information about employees, their departments and their salaries.
+
+| employee_id | first_name | department_id | salary |
+|---:|---|---:|---:|
+| 1 | John | 10 | 55000 |
+| 2 | Maria | 20 | 42000 |
+| 3 | George | 10 | 65000 |
+| 4 | Anna | 30 | 60000 |
+| 5 | Peter | NULL | 38000 |
+| 6 | Elena | 20 | 45000 |
+| 7 | David | 40 | 72000 |
+| 8 | Sofia | 10 | 50000 |
+
+**Column descriptions:**
+
+| Column | Description |
+|---|---|
+| employee_id | Unique identifier for each employee (Primary Key) |
+| first_name | Employee's first name |
+| department_id | Department assigned to the employee (Foreign Key) |
+| salary | Employee's salary |
+
+### 2. Departments Table
+
+The `departments` table contains information about the company's departments.
+
+| department_id | department_name |
+|---:|---|
+| 10 | IT |
+| 20 | HR |
+| 30 | Finance |
+| 40 | Marketing |
+| 50 | Sales |
+
+**Column descriptions:**
+
+| Column | Description |
+|---|---|
+| department_id | Unique identifier for each department (Primary Key) |
+| department_name | Name of the department |
+
+### 3. Table Relationship
+
+The two tables are connected through the `department_id` column.
+
+- `departments.department_id` is the Primary Key.
+- `employees.department_id` is a Foreign Key referencing the departments table.
+- An employee can belong to one department.
+- A department can have multiple employees.
+- An employee may have a NULL department ID or an ID that does not match an existing department.
+
 ---
 
 ## 2. What Is a Subquery?
