@@ -2,7 +2,7 @@
 
 ## Overview
 
-This lesson focuses on three important groups of SQL functions used in everyday Data Analyst work:
+This lesson focuses on three important groups of SQL functions used in everyday Data Professional work:
 
 - **CASE expressions** – classify data and create conditional logic.
 - **Date functions** – extract, filter, calculate, and group dates.
