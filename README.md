@@ -18,7 +18,7 @@ sql-python-daily-practice/
     └── concepts-explained.md   — short write-ups of concepts in my own words
 ```
 
-## Log
+## SQL Log
 
 | Topic | Type | Notes | Link |
 |---|---|---|---|
