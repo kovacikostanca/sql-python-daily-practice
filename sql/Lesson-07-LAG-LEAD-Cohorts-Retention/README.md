@@ -6,7 +6,7 @@ Welcome to Lesson 07 of the SQL Masterclass!
 
 In this lesson, we move into more advanced SQL analysis, focusing on customer behaviour, purchasing patterns, cohort analysis and customer retention.
 
-These concepts are particularly important for Data Analysts working in:
+These concepts are particularly important for Data Professionals working in:
 
 - E-commerce.
 - Marketing Analytics.
