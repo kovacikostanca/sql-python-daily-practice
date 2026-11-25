@@ -172,9 +172,7 @@ Not every window function needs all these components.
 ### Syntax
 
 ```sql
-ROW_NUMBER() OVER (
-    ORDER BY salary DESC
-)
+ROW_NUMBER() OVER (ORDER BY salary DESC)
 ```
 
 ### Example: Rank All Employees by Salary
@@ -184,9 +182,7 @@ SELECT
     employee_id,
     first_name,
     salary,
-    ROW_NUMBER() OVER (
-        ORDER BY salary DESC
-    ) AS row_num
+    ROW_NUMBER() OVER (ORDER BY salary DESC) AS row_num
 FROM employees;
 ```
 
@@ -210,9 +206,7 @@ FROM employees;
 If ties exist and you want deterministic results, add a tie-breaker:
 
 ```sql
-ROW_NUMBER() OVER (
-    ORDER BY salary DESC, employee_id
-)
+ROW_NUMBER() OVER (ORDER BY salary DESC, employee_id)
 ```
 
 ### Analyst Use Case
@@ -302,12 +296,8 @@ SELECT
     employee_id,
     first_name,
     salary,
-    RANK() OVER (
-        ORDER BY salary DESC
-    ) AS salary_rank,
-    DENSE_RANK() OVER (
-        ORDER BY salary DESC
-    ) AS salary_dense_rank
+    RANK() OVER (ORDER BY salary DESC) AS salary_rank,
+    DENSE_RANK() OVER (ORDER BY salary DESC) AS salary_dense_rank
 FROM employees;
 ```
 
@@ -347,10 +337,7 @@ SELECT
     first_name,
     department_id,
     salary,
-    ROW_NUMBER() OVER (
-        PARTITION BY department_id
-        ORDER BY salary DESC
-    ) AS row_num
+    ROW_NUMBER() OVER (PARTITION BY department_id ORDER BY salary DESC) AS row_num
 FROM employees;
 ```
 
@@ -367,10 +354,7 @@ WITH employee_ranking AS (
         first_name,
         department_id,
         salary,
-        ROW_NUMBER() OVER (
-            PARTITION BY department_id
-            ORDER BY salary DESC
-        ) AS row_num
+        ROW_NUMBER() OVER (PARTITION BY department_id ORDER BY salary DESC) AS row_num
     FROM employees
 )
 
@@ -415,11 +399,7 @@ SELECT
     customer_name,
     order_date,
     order_amount,
-    SUM(order_amount) OVER (
-        ORDER BY order_date, order_id
-        ROWS BETWEEN UNBOUNDED PRECEDING
-        AND CURRENT ROW
-    ) AS running_total
+    SUM(order_amount) OVER (ORDER BY order_date, order_id ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) AS running_total
 FROM orders;
 ```
 
@@ -474,12 +454,8 @@ SELECT
     customer_name,
     order_date,
     order_amount,
-    SUM(order_amount) OVER (
-        PARTITION BY customer_name
-        ORDER BY order_date, order_id
-        ROWS BETWEEN UNBOUNDED PRECEDING
-        AND CURRENT ROW
-    ) AS customer_running_total
+    SUM(order_amount) OVER (PARTITION BY customer_name ORDER BY order_date, order_id ROWS BETWEEN UNBOUNDED PRECEDING
+        AND CURRENT ROW) AS customer_running_total
 FROM orders;
 ```
 
@@ -527,11 +503,7 @@ SELECT
     order_id,
     order_date,
     order_amount,
-    SUM(order_amount) OVER (
-        ORDER BY order_date, order_id
-        ROWS BETWEEN UNBOUNDED PRECEDING
-        AND CURRENT ROW
-    ) AS running_total
+    SUM(order_amount) OVER (ORDER BY order_date, order_id ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) AS running_total
 FROM orders;
 ```
 
@@ -550,13 +522,8 @@ WITH department_report AS (
         first_name,
         department_id,
         salary,
-        AVG(salary) OVER (
-            PARTITION BY department_id
-        ) AS department_avg_salary,
-        RANK() OVER (
-            PARTITION BY department_id
-            ORDER BY salary DESC
-        ) AS salary_rank
+        AVG(salary) OVER (PARTITION BY department_id) AS department_avg_salary,
+        RANK() OVER (PARTITION BY department_id ORDER BY salary DESC) AS salary_rank
     FROM employees
 )
 
