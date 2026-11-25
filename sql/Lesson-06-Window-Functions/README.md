@@ -4,7 +4,7 @@
 
 Welcome to Lesson 06 of the SQL Masterclass!
 
-In this lesson, we explore **SQL Window Functions**, an essential skill for Data Analysts. Window functions allow us to perform calculations across related rows while keeping the individual rows visible in the result.
+In this lesson, we explore **SQL Window Functions**, an essential skill for Data Professionals. Window functions allow us to perform calculations across related rows while keeping the individual rows visible in the result.
 
 Unlike `GROUP BY`, which combines multiple rows into summary rows, window functions preserve the original level of detail.
 
