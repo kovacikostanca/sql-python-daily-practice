@@ -774,4 +774,4 @@ In the next SQL lesson, we will expand our window-function knowledge with:
 - Advanced analytical reporting.
 - SQL interview exercises.
 
-**Keep practising. Window functions are one of the most valuable SQL skills for a Data Analyst.**
+**Keep practising. Window functions are one of the most valuable SQL skills for a Data Professional.**
