@@ -1,4 +1,4 @@
-# SQL Masterclass – Lesson 06 – SQL Window Functions
+# SQL Masterclass – Lesson 06: Window Functions
 
 ## 1. Overview
 
