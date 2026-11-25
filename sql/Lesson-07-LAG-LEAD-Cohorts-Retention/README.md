@@ -1,4 +1,4 @@
-# Lesson 07 – SQL: LAG(), LEAD(), Cohort Analysis & Retention
+# SQL Masterclass - Lesson 07: LAG(), LEAD(), Cohort Analysis & Retention
 
 ## 1. Overview
 
