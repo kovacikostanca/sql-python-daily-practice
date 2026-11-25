@@ -245,10 +245,7 @@ SELECT
     first_name,
     department_id,
     salary,
-    ROW_NUMBER() OVER (
-        PARTITION BY department_id
-        ORDER BY salary DESC
-    ) AS department_row_num
+    ROW_NUMBER() OVER (PARTITION BY department_id ORDER BY salary DESC) AS department_row_num
 FROM employees;
 ```
 
