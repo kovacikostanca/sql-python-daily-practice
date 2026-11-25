@@ -119,9 +119,7 @@ SELECT
     first_name,
     department_id,
     salary,
-    AVG(salary) OVER (
-        PARTITION BY department_id
-    ) AS department_avg_salary
+    AVG(salary) OVER (PARTITION BY department_id) AS department_avg_salary
 FROM employees;
 ```
 
@@ -151,10 +149,7 @@ The `OVER()` clause tells SQL that we are defining a window for the calculation.
 Basic syntax:
 
 ```sql
-FUNCTION_NAME() OVER (
-    PARTITION BY column_name
-    ORDER BY column_name
-)
+FUNCTION_NAME() OVER (PARTITION BY column_name ORDER BY column_name)
 ```
 
 The main components are:
