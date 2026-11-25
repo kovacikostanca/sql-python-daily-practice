@@ -1,4 +1,4 @@
-# Lesson 05: CASE, Date & String Functions
+# SQL Masterclass – Lesson 05: CASE, Date & String Functions
 
 ## Overview
 
