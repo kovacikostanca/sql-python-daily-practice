@@ -1,4 +1,4 @@
-# Python Lesson 03 — Pandas: Filtering, GroupBy & Merge
+# Lesson 03: Python (Pandas - Part2)
 
 ## Overview
 
