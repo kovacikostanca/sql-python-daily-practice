@@ -1,4 +1,4 @@
-# Lesson 01: Python and Pandas for Data Professions
+# Lesson 01: Python (Pandas - Part 1)
 
 ## 1. Overview
 
