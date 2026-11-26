@@ -479,10 +479,7 @@ Expected employees:
 Return employees in department 10 with a salary above 50,000.
 
 ```python
-df[
-    (df["department_id"] == 10) &
-    (df["salary"] > 50000)
-]
+df[(df["department_id"] == 10) & (df["salary"] > 50000)]
 ```
 
 ### Example 4 – Multiple Conditions with OR
@@ -490,10 +487,7 @@ df[
 Return employees with a salary below 45,000 or above 65,000.
 
 ```python
-df[
-    (df["salary"] < 45000) |
-    (df["salary"] > 65000)
-]
+df[(df["salary"] < 45000) | (df["salary"] > 65000)]
 ```
 
 ### Important Operators
@@ -527,19 +521,13 @@ df.sort_values(by="salary")
 ### Descending Order
 
 ```python
-df.sort_values(
-    by="salary",
-    ascending=False
-)
+df.sort_values(by="salary", ascending=False)
 ```
 
 ### Sorting by Multiple Columns
 
 ```python
-df.sort_values(
-    by=["department_id", "salary"],
-    ascending=[True, False]
-)
+df.sort_values(by=["department_id", "salary"], ascending=[True, False])
 ```
 
 This sorts:
@@ -562,11 +550,7 @@ A Data Analyst often needs to create new columns based on existing information.
 ```python
 df.loc[df["salary"] > 60000, "salary_category"] = "High"
 
-df.loc[
-    (df["salary"] > 45000) &
-    (df["salary"] <= 60000),
-    "salary_category"
-] = "Medium"
+df.loc[(df["salary"] > 45000) & (df["salary"] <= 60000), "salary_category"] = "Medium"
 
 df.loc[df["salary"] <= 45000, "salary_category"] = "Low"
 ```
@@ -591,10 +575,7 @@ For more complex conditions, you can use `numpy.select()`.
 ```python
 import numpy as np
 
-conditions = [
-    df["salary"] > 60000,
-    df["salary"] > 45000
-]
+conditions = [df["salary"] > 60000, df["salary"] > 45000]
 
 choices = ["High", "Medium"]
 
