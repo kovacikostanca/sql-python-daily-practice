@@ -65,9 +65,9 @@ Python is a programming language used in many areas, including:
 - Web Development.
 - Data Engineering.
 
-For Data Analysts, Python is particularly useful when working with datasets that require cleaning, transformation, exploration or automation.
+Python is particularly useful when working with datasets that require cleaning, transformation, exploration or automation.
 
-### Why Should a Data Analyst Learn Python?
+### Why Should Learn Python?
 
 SQL is excellent for retrieving and analysing data stored in databases.
 
