@@ -1,4 +1,4 @@
-# Python Lesson 02: Lists, Dictionaries, Functions & Loops
+# Lesson 02: Python (Lists, Dictionaries, Functions & Loops)
 
 ## 1. Lesson Overview
 
