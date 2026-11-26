@@ -4,7 +4,7 @@
 
 Welcome to the Python part of Lesson 01!
 
-In this lesson, we introduce **Python and Pandas**, two essential tools used by Data Analysts to work with, clean, transform and analyse data.
+In this lesson, we introduce **Python and Pandas**, two essential tools used by Data Professionals to work with, clean, transform and analyse data.
 
 Python is a general-purpose programming language. Pandas is a Python library that makes working with structured data much easier.
 
