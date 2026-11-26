@@ -318,11 +318,11 @@ Data Analysts frequently calculate percentage changes to measure business perfor
 
 ### Formula
 
-```math
+$$
 \text{Percentage Change} =
 \frac{\text{Current Value} - \text{Previous Value}}
 {\text{Previous Value}} \times 100
-
+$$
 
 ### SQL Query
 
