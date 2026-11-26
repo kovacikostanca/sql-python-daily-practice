@@ -903,10 +903,10 @@ For this lesson, we define a retained customer as someone who makes at least one
 
 If 100 customers make their first purchase in January and 40 of them purchase again in February:
 
-\[
+$$
 \text{February Retention} =
 \frac{40}{100} \times 100 = 40\%
-\]
+$$
 
 Retention is an important business KPI because it helps measure customer engagement and loyalty.
 
