@@ -12,11 +12,11 @@ In this lesson, we will learn how to clean datasets using Python and Pandas.
 
 ### Topics covered
 
-1. **Missing values (NULLs)** — identify, investigate and handle missing data.
-2. **Duplicates** — find and remove duplicate records safely.
-3. **Data types** — convert columns into the correct formats.
-4. **Outliers** — identify unusual values and decide how to handle them.
-5. **Data validation** — verify that the cleaned dataset is reliable.
+1. **Missing values (NULLs)**: identify, investigate and handle missing data.
+2. **Duplicates**: find and remove duplicate records safely.
+3. **Data types**: convert columns into the correct formats.
+4. **Outliers**: identify unusual values and decide how to handle them.
+5. **Data validation**: verify that the cleaned dataset is reliable.
 
 **Level:** Beginner to Intermediate  
 **Language:** Python  
