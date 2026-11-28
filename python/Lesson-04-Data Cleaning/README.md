@@ -743,9 +743,11 @@ Another method uses standard deviations.
 
 Formula:
 
+$$
 \[
 Z = \frac{x-\mu}{\sigma}
 \]
+$$
 
 Where:
 
