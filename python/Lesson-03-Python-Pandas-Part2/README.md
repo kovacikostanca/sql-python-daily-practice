@@ -6,9 +6,9 @@ Welcome to Python Lesson 03!
 
 In this lesson, we focus on three essential Pandas skills used every day by Data Professions:
 
-1. **Filtering** — selecting rows that meet specific conditions.
-2. **GroupBy and Aggregation** — summarizing data and calculating business metrics.
-3. **Merge** — combining datasets using common columns, just like SQL JOINs.
+1. **Filtering**: selecting rows that meet specific conditions.
+2. **GroupBy and Aggregation**: summarizing data and calculating business metrics.
+3. **Merge**: combining datasets using common columns, just like SQL JOINs.
 
 These skills are fundamental for cleaning, exploring, analyzing, and reporting data.
 
