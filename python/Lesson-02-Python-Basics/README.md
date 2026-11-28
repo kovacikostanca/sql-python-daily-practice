@@ -149,7 +149,9 @@ example_list = [
 
 print(example_list)
 ```
-
+```
+['John', 55000, True, None, 25.5]
+```
 A list can contain strings, integers, floats, Boolean values, and `None`.
 
 ### 3.2 Creating Lists
